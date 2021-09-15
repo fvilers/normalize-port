@@ -2,6 +2,11 @@
   "name": "normalize-port",
   "version": "0.0.0",
   "description": "An helper function to normalize a port number expressed as a string",
+  "main": "dist/normalize-port.js",
+  "types": "dist/normalize-port.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvilers/normalize-port.git"
@@ -16,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/normalize-port/issues"
   },
-  "homepage": "https://github.com/fvilers/normalize-port#readme"
+  "homepage": "https://github.com/fvilers/normalize-port#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
