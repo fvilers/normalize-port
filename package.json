@@ -1,0 +1,20 @@
+{
+  "name": "normalize-port",
+  "version": "0.0.0",
+  "description": "An helper function to normalize a port number expressed as a string",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/normalize-port.git"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "typescript-library"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/normalize-port/issues"
+  },
+  "homepage": "https://github.com/fvilers/normalize-port#readme"
+}
