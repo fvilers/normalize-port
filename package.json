@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/normalize-port",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An helper function to normalize a port number expressed as a string",
   "main": "dist/normalize-port.js",
   "types": "dist/normalize-port.d.ts",
