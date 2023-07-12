@@ -2,6 +2,7 @@
   "name": "@fvilers/normalize-port",
   "version": "1.0.0",
   "description": "An helper function to normalize a port number expressed as a string",
+  "type": "module",
   "main": "dist/normalize-port.js",
   "types": "dist/normalize-port.d.ts",
   "scripts": {
@@ -24,6 +25,6 @@
   },
   "homepage": "https://github.com/fvilers/normalize-port#readme",
   "devDependencies": {
-    "typescript": "^4.4.3"
+    "typescript": "^4.7.4"
   }
 }
